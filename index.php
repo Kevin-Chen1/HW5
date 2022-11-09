@@ -25,6 +25,23 @@ document.getElementById("pp").innerHTML =
 Math.floor(Math.random() * 101);
 </script>
   
+<script>
+var askname = prompt("enter name?");
+</script>
 
+  <h2>JavaScript Alert</h2>
+
+<button onclick="myFunction()">Try it</button>
+
+<script>
+function myFunction() {
+  alert("ligma balls");
+}
+</script>
+  
+  <button onclick="document.getElementById('tiempo').innerHTML=Date()">Que hora es?</button>
+
+<p id="tiempo"></p>
+  
 </body>
 </html>
