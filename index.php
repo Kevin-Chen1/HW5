@@ -15,10 +15,10 @@ document.getElementById("ligma").innerHTML = x;
 function myFunction(a, b) {
   return a * b;
 }
+  <p> this will generate random number </p>
 </script>
   
   <p id="pp" this function will generate random number </p>
-  <p> this will generate random number </p>
   
 <script>
 document.getElementById("pp").innerHTML =
