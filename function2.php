@@ -2,9 +2,9 @@
 <html>
 <body>
 
-<h2>JavaScript Functions</h2>
+<h2>JavaScript Function 2</h2>
 
-<p>This example calls a function which performs a calculation and returns the result:</p>
+<p>This function will solve the following 4 * 3</p>
 
 <p id="ligma"></p>
 
